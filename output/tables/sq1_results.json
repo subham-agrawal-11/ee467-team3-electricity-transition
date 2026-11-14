@@ -1,0 +1,434 @@
+{
+ "energy_total_TWh": {
+  "2019": 1296.3,
+  "2020": 1282.4,
+  "2021": 1385.8,
+  "2022": 1502.3,
+  "2023": 1607.2,
+  "2024": 1689.1,
+  "2025": 1700.4
+ },
+ "cagr_total": 5.437366265893373,
+ "cagr_median": 5.117334431764542,
+ "cagr_top5": {
+  "Bihar": 7.17,
+  "Rajasthan": 7.01,
+  "Odisha": 6.97,
+  "Punjab": 6.8,
+  "Chhattisgarh": 6.57,
+  "Jharkhand": 6.46
+ },
+ "cagr_low5": {
+  "Meghalaya": -0.23,
+  "Sikkim": 2.88,
+  "Delhi": 3.0,
+  "Mizoram": 3.13,
+  "Tamil Nadu": 3.14,
+  "Manipur": 3.24
+ },
+ "n_big": 23,
+ "big_cagr_top": {
+  "Bihar": 7.17,
+  "Rajasthan": 7.01,
+  "Odisha": 6.97,
+  "Punjab": 6.8,
+  "Chhattisgarh": 6.57
+ },
+ "big_cagr_low": {
+  "Delhi": 3.0,
+  "Tamil Nadu": 3.14,
+  "Dadra and Nagar Haveli and Daman and Diu": 3.63,
+  "Kerala": 3.67,
+  "Uttarakhand": 4.07
+ },
+ "kwh_top": {
+  "Dadra and Nagar Haveli and Daman and Diu": 7481.0,
+  "Goa": 3381.0,
+  "Punjab": 2529.0,
+  "Telangana": 2332.0,
+  "Haryana": 2281.0,
+  "Gujarat": 2149.0
+ },
+ "kwh_low": {
+  "Manipur": 328.0,
+  "Bihar": 343.0,
+  "Assam": 355.0,
+  "Nagaland": 427.0,
+  "Tripura": 437.0,
+  "Mizoram": 583.0
+ },
+ "national_kwh_pc": 1201.0034362313183,
+ "swing": {
+  "median_e": 1.3440639057189687,
+  "median_r": 1.3659232204525247,
+  "up": 16,
+  "down": 17,
+  "p": 0.7242955029942095,
+  "big_up": 9
+ },
+ "flat": {
+  "median_e": 0.7700094080259137,
+  "median_r": 0.7668416056627576,
+  "up": 18,
+  "down": 15,
+  "p": 0.6849592779763043,
+  "big_up": 13
+ },
+ "swing_top_r": {
+  "Punjab": 2.37,
+  "Chandigarh": 2.14,
+  "Delhi": 1.97,
+  "Haryana": 1.86,
+  "Sikkim": 1.8,
+  "Assam": 1.73
+ },
+ "swing_low_r": {
+  "Dadra and Nagar Haveli and Daman and Diu": 1.08,
+  "Jharkhand": 1.18,
+  "Gujarat": 1.24,
+  "Himachal Pradesh": 1.24,
+  "Goa": 1.25,
+  "Mizoram": 1.25
+ },
+ "big_swing_top_r": {
+  "Punjab": 2.37,
+  "Delhi": 1.97,
+  "Haryana": 1.86,
+  "Assam": 1.73,
+  "Uttar Pradesh": 1.7,
+  "Bihar": 1.67
+ },
+ "big_swing_low_r": {
+  "Dadra and Nagar Haveli and Daman and Diu": 1.08,
+  "Jharkhand": 1.18,
+  "Gujarat": 1.24,
+  "Himachal Pradesh": 1.24,
+  "Maharashtra": 1.27,
+  "Andhra Pradesh": 1.28
+ },
+ "swing_change_big": {
+  "Dadra and Nagar Haveli and Daman and Diu": -0.21,
+  "Delhi": -0.19,
+  "Punjab": -0.17,
+  "Haryana": -0.12,
+  "Madhya Pradesh": -0.11,
+  "Himachal Pradesh": -0.09,
+  "Uttarakhand": -0.06,
+  "Andhra Pradesh": -0.06,
+  "Gujarat": -0.06,
+  "Uttar Pradesh": -0.04,
+  "Maharashtra": -0.03,
+  "Karnataka": -0.02,
+  "Jharkhand": -0.02,
+  "Tamil Nadu": -0.0,
+  "Telangana": 0.01,
+  "Rajasthan": 0.03,
+  "Jammu and Kashmir": 0.03,
+  "Kerala": 0.05,
+  "Chhattisgarh": 0.07,
+  "Odisha": 0.07,
+  "West Bengal": 0.07,
+  "Bihar": 0.09,
+  "Assam": 0.15
+ },
+ "peak_moved": {
+  "Punjab": {
+   "peak_e": "Jul",
+   "peak_r": "Aug"
+  },
+  "Delhi": {
+   "peak_e": "Jul",
+   "peak_r": "Jun"
+  },
+  "Uttar Pradesh": {
+   "peak_e": "Jul",
+   "peak_r": "Jun"
+  },
+  "Chhattisgarh": {
+   "peak_e": "Apr",
+   "peak_r": "Mar"
+  },
+  "Gujarat": {
+   "peak_e": "Apr",
+   "peak_r": "May"
+  },
+  "Maharashtra": {
+   "peak_e": "Apr",
+   "peak_r": "Mar"
+  },
+  "Goa": {
+   "peak_e": "Nov",
+   "peak_r": "May"
+  },
+  "Puducherry": {
+   "peak_e": "Apr",
+   "peak_r": "May"
+  },
+  "Bihar": {
+   "peak_e": "Aug",
+   "peak_r": "Jul"
+  },
+  "Jharkhand": {
+   "peak_e": "Apr",
+   "peak_r": "Jun"
+  },
+  "Odisha": {
+   "peak_e": "Aug",
+   "peak_r": "Jun"
+  },
+  "West Bengal": {
+   "peak_e": "Apr",
+   "peak_r": "Jun"
+  },
+  "Sikkim": {
+   "peak_e": "Jan",
+   "peak_r": "Feb"
+  },
+  "Assam": {
+   "peak_e": "Aug",
+   "peak_r": "Sep"
+  },
+  "Meghalaya": {
+   "peak_e": "Feb",
+   "peak_r": "Jan"
+  },
+  "Nagaland": {
+   "peak_e": "Aug",
+   "peak_r": "Sep"
+  },
+  "Tripura": {
+   "peak_e": "Aug",
+   "peak_r": "Sep"
+  },
+  "Dadra and Nagar Haveli and Daman and Diu": {
+   "peak_e": "Feb",
+   "peak_r": "Jun"
+  }
+ },
+ "n_peak_moved": 18,
+ "peak_month_counts_r": {
+  "Jun": 7,
+  "Jan": 5,
+  "Mar": 5,
+  "Feb": 4,
+  "Jul": 3,
+  "May": 3,
+  "Sep": 3,
+  "Apr": 2,
+  "Aug": 1
+ },
+ "peak_month_counts_e": {
+  "Apr": 8,
+  "Jul": 5,
+  "Feb": 5,
+  "Jan": 5,
+  "Aug": 5,
+  "Mar": 3,
+  "Jun": 1,
+  "Nov": 1
+ },
+ "peak_month_counts_big_r": {
+  "Jun": 7,
+  "Mar": 5,
+  "Jul": 2,
+  "Feb": 2,
+  "Jan": 2,
+  "Apr": 2,
+  "Aug": 1,
+  "May": 1,
+  "Sep": 1
+ },
+ "summer_change_median": 0.0036683058352104947,
+ "winter_change_median": -0.01702042866842035,
+ "strength_top": {
+  "Assam": 0.93,
+  "Punjab": 0.93,
+  "Bihar": 0.9,
+  "Delhi": 0.89,
+  "Uttar Pradesh": 0.86
+ },
+ "strength_low": {
+  "Himachal Pradesh": 0.0,
+  "Jharkhand": 0.0,
+  "Dadra and Nagar Haveli and Daman and Diu": 0.0,
+  "Gujarat": 0.17,
+  "Rajasthan": 0.37
+ },
+ "strength_median": 0.7419633674965954,
+ "lf_top": {
+  "Dadra and Nagar Haveli and Daman and Diu": 90.1,
+  "Tamil Nadu": 75.8,
+  "Maharashtra": 74.4,
+  "Goa": 72.0,
+  "Chhattisgarh": 71.9
+ },
+ "lf_low": {
+  "Punjab": 51.6,
+  "Delhi": 52.1,
+  "Telangana": 53.7,
+  "Assam": 55.3,
+  "Haryana": 57.1
+ },
+ "rho_flat_lf": 0.8076612903225807,
+ "income": {
+  "slope": 0.7559340208479906,
+  "se": 0.16316205465802316,
+  "r2": 0.42534348665429117,
+  "n": 31,
+  "res_top": {
+   "Punjab": 118.0,
+   "Jammu and Kashmir": 73.0,
+   "Puducherry": 69.0,
+   "Madhya Pradesh": 67.0,
+   "Chhattisgarh": 61.0,
+   "Telangana": 61.0
+  },
+  "res_low": {
+   "Sikkim": -65.0,
+   "Mizoram": -56.0,
+   "Assam": -55.0,
+   "Tripura": -53.0,
+   "Manipur": -51.0,
+   "Arunachal Pradesh": -38.0
+  }
+ },
+ "nat_peak": {
+  "2019": {
+   "GW": 176.4,
+   "date": "2019-05-29"
+  },
+  "2020": {
+   "GW": 176.6,
+   "date": "2021-03-17"
+  },
+  "2021": {
+   "GW": 190.7,
+   "date": "2021-08-14"
+  },
+  "2022": {
+   "GW": 197.6,
+   "date": "2022-06-28"
+  },
+  "2023": {
+   "GW": 215.6,
+   "date": "2023-08-12"
+  },
+  "2024": {
+   "GW": 227.4,
+   "date": "2024-05-29"
+  },
+  "2025": {
+   "GW": 232.2,
+   "date": "2025-06-09"
+  },
+  "2026": {
+   "GW": 251.1,
+   "date": "2026-07-17"
+  }
+ },
+ "shortage_pct": {
+  "2019": 0.381,
+  "2020": 0.259,
+  "2021": 0.333,
+  "2022": 0.443,
+  "2023": 0.208,
+  "2024": 0.064,
+  "2025": 0.021,
+  "2026": 0.146
+ },
+ "nat_peak_gi": {
+  "2019": {
+   "GW": 182.6,
+   "date": "2019-05-30"
+  },
+  "2020": {
+   "GW": 189.6,
+   "date": "2021-01-30"
+  },
+  "2021": {
+   "GW": 200.6,
+   "date": "2021-07-07"
+  },
+  "2022": {
+   "GW": 211.9,
+   "date": "2022-06-10"
+  },
+  "2023": {
+   "GW": 240.0,
+   "date": "2023-09-01"
+  },
+  "2024": {
+   "GW": 250.1,
+   "date": "2024-05-30"
+  },
+  "2025": {
+   "GW": 245.4,
+   "date": "2026-01-09"
+  },
+  "2026": {
+   "GW": 270.8,
+   "date": "2026-05-21"
+  }
+ },
+ "nat_lf": {
+  "2015": 82.72,
+  "2016": 81.78,
+  "2017": 84.42,
+  "2018": 82.19,
+  "2019": 79.96,
+  "2020": 76.56,
+  "2021": 77.59,
+  "2022": 80.03,
+  "2023": 76.1,
+  "2024": 77.39,
+  "2025": 79.41
+ },
+ "cagr_peak_1924": 6.332730186790969,
+ "cagr_energy_1924": 5.5831604381096245,
+ "coincidence": {
+  "2019": {
+   "nat_flat": 0.8558,
+   "nat_swing": 1.2528,
+   "diversity": 1.1387,
+   "peak_day": "2019-05-30"
+  },
+  "2020": {
+   "nat_flat": 0.8608,
+   "nat_swing": 1.3944,
+   "diversity": 1.1794,
+   "peak_day": "2021-03-17"
+  },
+  "2021": {
+   "nat_flat": 0.8456,
+   "nat_swing": 1.2572,
+   "diversity": 1.1439,
+   "peak_day": "2021-07-07"
+  },
+  "2022": {
+   "nat_flat": 0.8752,
+   "nat_swing": 1.206,
+   "diversity": 1.1481,
+   "peak_day": "2022-06-10"
+  },
+  "2023": {
+   "nat_flat": 0.8462,
+   "nat_swing": 1.2335,
+   "diversity": 1.1106,
+   "peak_day": "2023-09-02"
+  },
+  "2024": {
+   "nat_flat": 0.8516,
+   "nat_swing": 1.2263,
+   "diversity": 1.1336,
+   "peak_day": "2024-05-30"
+  },
+  "2025": {
+   "nat_flat": 0.8604,
+   "nat_swing": 1.2183,
+   "diversity": 1.1456,
+   "peak_day": "2025-06-11"
+  }
+ },
+ "shape_corr_e": 0.24938264550004682,
+ "shape_corr_r": 0.15191992209919084
+}
